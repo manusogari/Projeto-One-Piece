@@ -14,6 +14,6 @@ Projeto construído do evento Semana do zero ao programador contratado do Dev em
 - JavaScript
 - Github
 
-## 🤍 Contato
+## 📧 Contato
 
 medeirosmanuh4@gmail.com
